@@ -1,6 +1,7 @@
 # WM utilities
 wlogout
 wallust-git
+waybar-git
 
 # Compression
 rar

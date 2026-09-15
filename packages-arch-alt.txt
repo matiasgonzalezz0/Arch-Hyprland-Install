@@ -1,7 +1,24 @@
+# WM utilities
+hyprland
+hyprlock
+polkit-gnome
+grim
+slurp
+rofi
+swaync
+awww
+xdg-desktop-portal-hyprland
+blueman
+
+# Printing/PDF (Remember to start and enable cups.socket)
+zathura
+zathura-pdf-mupdf
+
 # Config utilities
 piper
 
 # Media
+feh
 vlc
 vlc-plugins-all
 gimp
@@ -36,6 +53,9 @@ lib32-mangohud
 # Mail
 thunderbird
 thunderbird-i18n-es-es
+
+# Fonts
+ttf-jetbrains-mono-nerd
 
 # Terminal utilities
 kitty

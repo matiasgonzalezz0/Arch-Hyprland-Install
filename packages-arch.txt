@@ -11,11 +11,11 @@ blueman
 
 # WM utilities
 hyprland
+hyprlock
 qt5-wayland
 qt6-wayland
 sddm
 polkit-gnome
-waybar
 wl-clipboard
 grim
 slurp

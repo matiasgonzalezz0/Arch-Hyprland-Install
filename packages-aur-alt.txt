@@ -1,3 +1,8 @@
+# WM utilities
+wlogout
+wallust-git
+waybar-git
+
 # Compression
 rar
 
@@ -10,6 +15,7 @@ vesktop-bin
 postman-bin
 claude-code
 cursor-bin
+wkhtmltopdf-bin
 
 # Office
 onlyoffice-bin
